@@ -1,1 +1,2 @@
-пшаю
+RIBA riba
+ribyshka
